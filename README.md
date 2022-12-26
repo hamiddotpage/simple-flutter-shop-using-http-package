@@ -14,7 +14,7 @@ https://welearn.hamidwebapp.ir/apk/
 https://welearn.hamidwebapp.ir/web
 
 دانلود :
-https://welearn.hamidwebapp.ir/web/zip
+https://welearn.hamidwebapp.ir/web.zip
 
 
 تاریخ بروز رسانی :
