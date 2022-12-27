@@ -13,7 +13,7 @@ https://welearnsite.hamidwebapp.ir/apk/
 https://welearnsite.hamidwebapp.ir/web
 
 دانلود :
-https://welearnsite.hamidwebapp.ir/web.zip
+https://welearnsite.hamidwebapp.ir/web/web.zip
 
 
 تاریخ بروز رسانی :
