@@ -1,21 +1,19 @@
 سورس کد فلاتر  فروشگاهی
 نسخه اندروید - آی او اس - لینوکس - ویندوز - وب اپ 
 
-(در صورتی که با پیغام خطا مواجه شدید  https  را به http   تغییر دهید)
-
 لینک آموزش :
 https://welearn.site/course/flutter-video-tutorial/
 
 نسخه اندروید 
-https://welearn.hamidwebapp.ir/apk/
+https://welearnsite.hamidwebapp.ir/apk/
 
 
 نسخه  وب 
 مشاهده :
-https://welearn.hamidwebapp.ir/web
+https://welearnsite.hamidwebapp.ir/web
 
 دانلود :
-https://welearn.hamidwebapp.ir/web.zip
+https://welearnsite.hamidwebapp.ir/web.zip
 
 
 تاریخ بروز رسانی :
